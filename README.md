@@ -57,4 +57,4 @@ The objective was to uncover whether attackers manipulated systems to discredit 
 
 ## 👩‍💻 Author
 Your Name – Cybersecurity Enthusiast | Aspiring SOC Analyst | GRC & Threat Detection Learner  
-GitHub: [yourusername](https://github.com/yourusername) | LinkedIn: [your-linkedin-profile](#)
+GitHub: [feyisolaa](https://github.com/feyisola) | LinkedIn: [https://www.linkedin.com/in/fayeak](#)
